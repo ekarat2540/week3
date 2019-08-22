@@ -15,7 +15,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:textSize="30sp"
-            android:text="Hello World!" android:id="@+id/result_text"/>
+            android:text="Dice Rolled!" android:id="@+id/result_text"/>
     <Button
 
             android:layout_width="wrap_content"
