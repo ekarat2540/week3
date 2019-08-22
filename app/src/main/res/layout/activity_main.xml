@@ -10,12 +10,13 @@
         tools:context=".MainActivity"
         >
 
-    <TextView
+    <ImageView
+            android:id="@+id/dice_image"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
-            android:textSize="30sp"
-            android:text="Dice Rolled!" android:id="@+id/result_text"/>
+            android:src="@drawable/dice_1"
+    />
     <Button
 
             android:layout_width="wrap_content"
